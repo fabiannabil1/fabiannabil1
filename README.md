@@ -1,4 +1,5 @@
 <h1 align="left">Hi 👋! My name is Fabian Nabil</h1>
+<h2 align="left">Just someone who is currently into robots and artificial intelligence</h2>
 
 ###
 
