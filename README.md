@@ -41,9 +41,9 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif" alt="Snake animation" />
+<div align="center">
+  <br clear="both">
+  <img src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif" alt="Snake animation" />
+</div>
 
 ###
